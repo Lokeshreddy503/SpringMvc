@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;Filenameviewcontroller/WebContent/WEB-INF/hi-servlet.xml&apos; to &apos;po-servlet.xml&apos;" description="Rename resource &apos;hi-servlet.xml&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="WebContent/WEB-INF/hi-servlet.xml" name="po-servlet.xml" stamp="1461269978733" updateReferences="true"/>
+</session>
